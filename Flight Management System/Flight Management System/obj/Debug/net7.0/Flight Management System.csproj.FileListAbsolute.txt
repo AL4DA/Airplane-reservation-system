@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/Flight Management System/Flight Management System/bin/Debug/net7.0/Flight Management System
+/Users/macbook/Desktop/Flight Management System/Flight Management System/bin/Debug/net7.0/Flight Management System.deps.json
+/Users/macbook/Desktop/Flight Management System/Flight Management System/bin/Debug/net7.0/Flight Management System.runtimeconfig.json
+/Users/macbook/Desktop/Flight Management System/Flight Management System/bin/Debug/net7.0/Flight Management System.dll
+/Users/macbook/Desktop/Flight Management System/Flight Management System/bin/Debug/net7.0/Flight Management System.pdb
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.AssemblyInfo.cs
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.dll
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/refint/Flight Management System.dll
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.pdb
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/Flight Management System.genruntimeconfig.cache
+/Users/macbook/Desktop/Flight Management System/Flight Management System/obj/Debug/net7.0/ref/Flight Management System.dll
